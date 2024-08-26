@@ -1,0 +1,27 @@
+.btn {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 10%);
+  width: 125px;
+  height: 40px;
+  padding: 8px 16px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  border-radius: 8px;
+  border: none;
+  background: #a4a5a9;
+  cursor: pointer;
+    transition: border-color 0.25s;
+}
+
+.btn:hover {
+    border-color: #646cff;
+  } 
+  .btn:focus,
+  .btn:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }

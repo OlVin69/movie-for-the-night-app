@@ -1,0 +1,13 @@
+.img {
+    display: block;
+  width: 360px;
+  height: 200px;
+  max-width: unset;
+  object-fit: cover;
+}
+
+.container {
+    border: 4px solid #212121;
+    border-radius: 8px;
+}
+

@@ -1,0 +1,15 @@
+.header {
+  width: 1280px;
+  position: relative;
+  
+  left: 7%;
+  background-color: blue;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
