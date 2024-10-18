@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #7471d5;
+    font-size: 16px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #7471d5;
+    
+}
+
+.active {
+    color: orangered;
+    
+}
